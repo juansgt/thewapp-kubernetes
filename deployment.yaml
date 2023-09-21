@@ -31,4 +31,4 @@ spec:
       - name: looks-api-container
         # Replace $LOCATION with your Artifact Registry location (e.g., us-west1).
         # Replace $GCLOUD_PROJECT with your project ID.
-        image: $europe-southwest1-docker.pkg.dev/$the-wap-379720/the-wapp-images/looks-api:v1.0.0-beta.6
+        image: europe-southwest1-docker.pkg.dev/the-wap-379720/the-wapp-images/looks-api:v1.0.0-beta.6
